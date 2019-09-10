@@ -1,3 +1,3 @@
 def simple-code-kramer(x):
-	y = x*x + 1
+	y = x*x + 2
 	return y 
